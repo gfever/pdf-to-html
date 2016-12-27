@@ -1,5 +1,5 @@
 {
-    "name": "gufy/pdftohtml-php",
+    "name": "gfever/pdftohtml-php",
     "description": "PDF to HTML converter with PHP using Poppler-utils",
     "license": "MIT",
     "authors": [
